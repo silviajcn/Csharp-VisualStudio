@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\ClasePersona\ClasePersona\bin\Debug\net6.0\ClasePersona.exe
+C:\Users\Acer\source\repos\ClasePersona\ClasePersona\bin\Debug\net6.0\ClasePersona.deps.json
+C:\Users\Acer\source\repos\ClasePersona\ClasePersona\bin\Debug\net6.0\ClasePersona.runtimeconfig.json
+C:\Users\Acer\source\repos\ClasePersona\ClasePersona\bin\Debug\net6.0\ClasePersona.dll
+C:\Users\Acer\source\repos\ClasePersona\ClasePersona\bin\Debug\net6.0\ClasePersona.pdb
+C:\Users\Acer\source\repos\ClasePersona\ClasePersona\obj\Debug\net6.0\ClasePersona.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\ClasePersona\ClasePersona\obj\Debug\net6.0\ClasePersona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\ClasePersona\ClasePersona\obj\Debug\net6.0\ClasePersona.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ClasePersona\ClasePersona\obj\Debug\net6.0\ClasePersona.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ClasePersona\ClasePersona\obj\Debug\net6.0\ClasePersona.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ClasePersona\ClasePersona\obj\Debug\net6.0\ClasePersona.dll
+C:\Users\Acer\source\repos\ClasePersona\ClasePersona\obj\Debug\net6.0\refint\ClasePersona.dll
+C:\Users\Acer\source\repos\ClasePersona\ClasePersona\obj\Debug\net6.0\ClasePersona.pdb
+C:\Users\Acer\source\repos\ClasePersona\ClasePersona\obj\Debug\net6.0\ClasePersona.genruntimeconfig.cache
+C:\Users\Acer\source\repos\ClasePersona\ClasePersona\obj\Debug\net6.0\ref\ClasePersona.dll
