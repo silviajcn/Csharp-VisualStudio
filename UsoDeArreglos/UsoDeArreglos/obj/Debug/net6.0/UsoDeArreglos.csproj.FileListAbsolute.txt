@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\UsoDeArreglos\UsoDeArreglos\bin\Debug\net6.0\UsoDeArreglos.exe
+C:\Users\Acer\source\repos\UsoDeArreglos\UsoDeArreglos\bin\Debug\net6.0\UsoDeArreglos.deps.json
+C:\Users\Acer\source\repos\UsoDeArreglos\UsoDeArreglos\bin\Debug\net6.0\UsoDeArreglos.runtimeconfig.json
+C:\Users\Acer\source\repos\UsoDeArreglos\UsoDeArreglos\bin\Debug\net6.0\UsoDeArreglos.dll
+C:\Users\Acer\source\repos\UsoDeArreglos\UsoDeArreglos\bin\Debug\net6.0\UsoDeArreglos.pdb
+C:\Users\Acer\source\repos\UsoDeArreglos\UsoDeArreglos\obj\Debug\net6.0\UsoDeArreglos.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\UsoDeArreglos\UsoDeArreglos\obj\Debug\net6.0\UsoDeArreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\UsoDeArreglos\UsoDeArreglos\obj\Debug\net6.0\UsoDeArreglos.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\UsoDeArreglos\UsoDeArreglos\obj\Debug\net6.0\UsoDeArreglos.AssemblyInfo.cs
+C:\Users\Acer\source\repos\UsoDeArreglos\UsoDeArreglos\obj\Debug\net6.0\UsoDeArreglos.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\UsoDeArreglos\UsoDeArreglos\obj\Debug\net6.0\UsoDeArreglos.dll
+C:\Users\Acer\source\repos\UsoDeArreglos\UsoDeArreglos\obj\Debug\net6.0\refint\UsoDeArreglos.dll
+C:\Users\Acer\source\repos\UsoDeArreglos\UsoDeArreglos\obj\Debug\net6.0\UsoDeArreglos.pdb
+C:\Users\Acer\source\repos\UsoDeArreglos\UsoDeArreglos\obj\Debug\net6.0\UsoDeArreglos.genruntimeconfig.cache
+C:\Users\Acer\source\repos\UsoDeArreglos\UsoDeArreglos\obj\Debug\net6.0\ref\UsoDeArreglos.dll
