@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\ProyectoFinalScharpPlatzi\ProyectoFinalScharpPlatzi\bin\Debug\net6.0\ProyectoFinalScharpPlatzi.exe
+C:\Users\Acer\source\repos\ProyectoFinalScharpPlatzi\ProyectoFinalScharpPlatzi\bin\Debug\net6.0\ProyectoFinalScharpPlatzi.deps.json
+C:\Users\Acer\source\repos\ProyectoFinalScharpPlatzi\ProyectoFinalScharpPlatzi\bin\Debug\net6.0\ProyectoFinalScharpPlatzi.runtimeconfig.json
+C:\Users\Acer\source\repos\ProyectoFinalScharpPlatzi\ProyectoFinalScharpPlatzi\bin\Debug\net6.0\ProyectoFinalScharpPlatzi.dll
+C:\Users\Acer\source\repos\ProyectoFinalScharpPlatzi\ProyectoFinalScharpPlatzi\bin\Debug\net6.0\ProyectoFinalScharpPlatzi.pdb
+C:\Users\Acer\source\repos\ProyectoFinalScharpPlatzi\ProyectoFinalScharpPlatzi\obj\Debug\net6.0\ProyectoFinalScharpPlatzi.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\ProyectoFinalScharpPlatzi\ProyectoFinalScharpPlatzi\obj\Debug\net6.0\ProyectoFinalScharpPlatzi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\ProyectoFinalScharpPlatzi\ProyectoFinalScharpPlatzi\obj\Debug\net6.0\ProyectoFinalScharpPlatzi.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ProyectoFinalScharpPlatzi\ProyectoFinalScharpPlatzi\obj\Debug\net6.0\ProyectoFinalScharpPlatzi.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ProyectoFinalScharpPlatzi\ProyectoFinalScharpPlatzi\obj\Debug\net6.0\ProyectoFinalScharpPlatzi.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ProyectoFinalScharpPlatzi\ProyectoFinalScharpPlatzi\obj\Debug\net6.0\ProyectoFinalScharpPlatzi.dll
+C:\Users\Acer\source\repos\ProyectoFinalScharpPlatzi\ProyectoFinalScharpPlatzi\obj\Debug\net6.0\refint\ProyectoFinalScharpPlatzi.dll
+C:\Users\Acer\source\repos\ProyectoFinalScharpPlatzi\ProyectoFinalScharpPlatzi\obj\Debug\net6.0\ProyectoFinalScharpPlatzi.pdb
+C:\Users\Acer\source\repos\ProyectoFinalScharpPlatzi\ProyectoFinalScharpPlatzi\obj\Debug\net6.0\ProyectoFinalScharpPlatzi.genruntimeconfig.cache
+C:\Users\Acer\source\repos\ProyectoFinalScharpPlatzi\ProyectoFinalScharpPlatzi\obj\Debug\net6.0\ref\ProyectoFinalScharpPlatzi.dll
