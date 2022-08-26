@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\Herencia\Herencia\bin\Debug\net6.0\Herencia.exe
+C:\Users\Acer\source\repos\Herencia\Herencia\bin\Debug\net6.0\Herencia.deps.json
+C:\Users\Acer\source\repos\Herencia\Herencia\bin\Debug\net6.0\Herencia.runtimeconfig.json
+C:\Users\Acer\source\repos\Herencia\Herencia\bin\Debug\net6.0\Herencia.dll
+C:\Users\Acer\source\repos\Herencia\Herencia\bin\Debug\net6.0\Herencia.pdb
+C:\Users\Acer\source\repos\Herencia\Herencia\obj\Debug\net6.0\Herencia.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Herencia\Herencia\obj\Debug\net6.0\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Herencia\Herencia\obj\Debug\net6.0\Herencia.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Herencia\Herencia\obj\Debug\net6.0\Herencia.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Herencia\Herencia\obj\Debug\net6.0\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Herencia\Herencia\obj\Debug\net6.0\Herencia.dll
+C:\Users\Acer\source\repos\Herencia\Herencia\obj\Debug\net6.0\refint\Herencia.dll
+C:\Users\Acer\source\repos\Herencia\Herencia\obj\Debug\net6.0\Herencia.pdb
+C:\Users\Acer\source\repos\Herencia\Herencia\obj\Debug\net6.0\Herencia.genruntimeconfig.cache
+C:\Users\Acer\source\repos\Herencia\Herencia\obj\Debug\net6.0\ref\Herencia.dll
